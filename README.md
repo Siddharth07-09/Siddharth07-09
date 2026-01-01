@@ -1,8 +1,8 @@
 # Hi there,
 # This is Siddharth 👋
-## I'm a second-year AI/ML student who spends most of my time learning new stuff and aspiring to do something creative and useful.  
-## I enjoy the entire process—data collection, model training, API development, and deployment.  
-## Check out my repositories for dashboards, forecasting systems and  scripts.
+### I'm a second-year AI/ML student who spends most of my time learning new stuff and aspiring to do something creative and useful.  
+### I enjoy the entire process—data collection, model training, API development, and deployment.  
+### Check out my repositories for dashboards, forecasting systems and  scripts.
 
 <!--
 **Siddharth07-09/Siddharth07-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
