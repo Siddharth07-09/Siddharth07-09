@@ -1,7 +1,7 @@
 # Hi there,
 # This is Siddharth 👋
 ### I'm a second-year AI/ML student who spends most of my time learning new stuff and aspiring to do something creative and useful.  
-### I enjoy the entire process—data collection, model training, API development, and deployment.  
+### I enjoy the entire process—data collection, model training, development and deployment.  
 ### Check out my repositories for dashboards, forecasting systems and  scripts.
 
 <!--
